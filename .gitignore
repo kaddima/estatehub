@@ -80,13 +80,12 @@ Homestead.json
 /.vagrant
 .phpunit.result.cache
 #Laravel Specific files
-/vendor
 .env
 .htaccess
 storage/
 
-/vendor
-/public
+vendor/
+public/
 .env
 .env.backup
 .phpunit.result.cache
